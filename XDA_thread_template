@@ -29,11 +29,7 @@ We are a Brazilian team, ViperOS aims to bring stability and useful features. If
 * Data saver icon toggle
 * VoLTE icon
 * Viper statusbar logo
-* Add QS pulldown with one swipe on fp sensor
-* Make roaming indicator optional
 * Option to Display Data Disabled indicator Icons
-* Ability to disable dashboard conditions, suggestions,  and summaries
-* Ability to change settings dashboard layout (colummns)
 * Ticker
 * Heads up toogle, timeout and snooze function
 
@@ -70,9 +66,7 @@ We are a Brazilian team, ViperOS aims to bring stability and useful features. If
 * Live volume steps
 * Hide arrows in network traffic indicators
 * Fingerprint authentication vibration
-* Add three-fingers-swipe to screenshot
 * Toast icon switch
-* In-call vibration options
 * Advanced Bluetooth, Data, Wifi Toggles
 * Disable/enable screenshot sound
 * QS header icon settings
@@ -81,8 +75,6 @@ We are a Brazilian team, ViperOS aims to bring stability and useful features. If
 * Ability to toggle vibration when double tapping power button for camera
 * Double tap to sleep on navigation bar
 * Drop Lineage LockClock, use OmniJaws
-* Ability to disable Do not Disturb mode when calling
-* Battery save color toggle
 * Drop AOSP Clock app, use from Google
 * Custom ambient display settings
 
